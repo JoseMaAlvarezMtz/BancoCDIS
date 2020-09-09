@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoCDIS", "BancoCDIS\BancoCDIS.csproj", "{4DDA9471-C716-4C16-B29E-CE08D7574440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDA9471-C716-4C16-B29E-CE08D7574440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDA9471-C716-4C16-B29E-CE08D7574440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDA9471-C716-4C16-B29E-CE08D7574440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDA9471-C716-4C16-B29E-CE08D7574440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0725D14A-B0E6-470F-A92F-920C80D048A7}
+	EndGlobalSection
+EndGlobal
